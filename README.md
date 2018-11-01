@@ -1,2 +1,3 @@
 # EKB
-eating keyboard
+吃键盘
+关于自己关于自己
